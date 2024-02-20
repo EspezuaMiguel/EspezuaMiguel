@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I'm Miguel Polanco</h1>
-<h3 align="center">Data Scientist, Research Scientist, Machine Learning</h3>
+<h1 align="center">Miguel Polanco</h1>
+<h3 align="center">Miguel Polanco is a Data Scientist based in Houston, TX, with a diverse skill set spanning over seven years of Python development, specializing in machine learning algorithms like generative models and convolutional neural networks. With extensive experience in the oil and gas exploration sector, Miguel excels in seismic data analysis and processing, utilizing tools such as C++ and Java. He holds a Master's degree in Computer Science and has contributed to various tech projects, including forecasting customer churn and detecting negative movie reviews. Miguel's career includes roles as a Lead Geophysicist and research positions at institutions like DOD Air Force Research Laboratory and Prairie View A&M University.</h3>
 
 
 
